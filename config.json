@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": " Bot của Dưn🔪 ",
+    "AMDIN_NAME": "Hải Dương",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/nguyen.diep.hai.duong/",
     "PREFIX": ".",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "100081431113650",
         ""
     ],
     "NDH": [
-        "",
+        "100081431113650",
         ""
     ],
     "autoCleanCache": {
